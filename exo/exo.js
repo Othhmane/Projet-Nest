@@ -28,11 +28,11 @@ users.forEach(user => {
 
 
 
-// EXO1
+// EXO2
 const filteredByUsername = filterData(users, user => user.username == "kiki");
 
 function filterData(data, filtre) {
-    return data.filter(filtre);  // renvoi le tableau filtré
+    return data.filter(filtre);  // renvoi  tableau filtré
 }
 
 console.log(filteredByUsername);
