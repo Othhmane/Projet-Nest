@@ -93,8 +93,3 @@ L'authentification est basée sur JWT et permet aux utilisateurs de réserver de
 - **Le dossier `exo`** contient tous mes exercices et entraînements effectués en cours pour arriver à ce projet final
 
 ---
-
-##  Contact
-
-Si vous avez des questions ou des suggestions, n'hésitez pas à me contacter ! 
-
